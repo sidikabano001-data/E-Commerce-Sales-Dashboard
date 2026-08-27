@@ -1,3 +1,4 @@
+<img width="602" height="311" alt="Screenshot of Power BI dashboard1" src="https://github.com/user-attachments/assets/230bfd06-bc24-49f6-9dda-fa5e05e8239f" />
 📊 E-Commerce Sales Analysis Dashboard
 📌 Project Overview
 
